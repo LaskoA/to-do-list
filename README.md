@@ -2,14 +2,12 @@
 
 Django simple to-do list project
 
-[Taxi service project deployed to Heroku](https://taxi-service-lasko.herokuapp.com/)
-
 ## Installation
 
 Python3 must be installed
 
 ```shell
-git clone https://github.com/LaskoA/taxi-service-for-deployment
+git clone https://github.com/LaskoA/to-do-list.git
 cd taxi-service-for-deployment
 
 Virtual environment install for Windows:
